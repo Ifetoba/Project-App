@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1065490909374",
+    "project_id": "finalproject-4d45f",
+    "storage_bucket": "finalproject-4d45f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065490909374:android:1848a2a6ac1751b93736ef",
+        "android_client_info": {
+          "package_name": "com.mycompany.egovernment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065490909374-hi52hqmijgofnucqtndbldf7iq6t5h9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.egovernment",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1065490909374-hbm61231q28bdl13r50g5571mbhb6dvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQEDCrZkwbnb86QM-ZaPPp8tGyBup-OZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065490909374-hbm61231q28bdl13r50g5571mbhb6dvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065490909374-958akemv3388f98aks9b5sta6i9aa01q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.egovernment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
